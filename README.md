@@ -1,16 +1,20 @@
-### Hi there 👋
+<!-- @format -->
 
-<!--
-**Amirwoas/Amirwoas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm AmirHossien! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i'm Front-END Developer from Iran &
+i have team with UI/UX Desinger and WordPress Developer...
+
+⚡️ I'm ready for work
+
+### 👨‍💻 Skills:
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]() [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() [![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]() [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]() [![Material](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]() [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]() [![React_Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]() [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]() [![20Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]() [![Visual_Studio_Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]() [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]() [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]() [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)]() [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)]() [![axios](https://camo.githubusercontent.com/e320069e79edc290a8bd7fe7966b67cf481fc6c94ba134dcc16dffa6baf05413/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4178696f732d3541323945343f6c6f676f3d4178696f73266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)]() [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]() [![web3](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)]() [![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)]() [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]() [![next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]() [![github](https://camo.githubusercontent.com/907f083a5514aad96a188db0373664deeb0940d0b4d9face135eacc292f65ec6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622543322541304465736b746f702d3830333461393f6c6f676f3d476974487562266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)]() [![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)]() [![swiper](https://camo.githubusercontent.com/83d9e9ae52ab3379ff82ae58263492692fd3c86cc7a3534da318f5d51968d09c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5377697065722d3633333246363f6c6f676f3d537769706572266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)]() [![20Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)]() [![Alpine](https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)]()
+
+## In progress :
+ [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]() [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]() [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]() [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+
+## 🔗 contact me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amir1th?igshid=ZDdkNTZiNTM=) [![telegram](https://camo.githubusercontent.com/1b6df2db93f1f33361bb61a11c7f546ba5b3e3a70b3ee9d941671362b8826887/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3232394544393f6c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)](https://t.me/GALENTBOY) [![gmail](https://camo.githubusercontent.com/d48d22850defab26cc0a95b6b8a9e46be6bacfd56cf4be02b4e41d9a1ab4159e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f6c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)](mailto:amir.woas@gmail.com)
