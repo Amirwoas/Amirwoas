@@ -1,11 +1,11 @@
 <!-- @format -->
 
-# Hi, I'm AmirHossien! 👋
+# Hi, I'm AmirHossien Shahryari! 👋
 
 ## 🚀 About Me
 
-i'm Front-END Developer from Iran &
-i have team with UI/UX Desinger and WordPress Developer...
+i'm Front-END Developer 
+I am ready to cooperate with you and your team
 
 ⚡️ I'm ready for work
 
